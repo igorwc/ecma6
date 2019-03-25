@@ -1,0 +1,2 @@
+./node_modules/.bin/babel modulos --out-dir modulos/out --presets=es2015
+/new/modulos/out$ npx babel-node someApp.js
